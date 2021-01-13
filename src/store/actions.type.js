@@ -1,0 +1,11 @@
+export const EMAIL_PUBLISH = "publishEmail";
+export const EMAIL_DELETE = "deleteEmail";
+export const EMAIL_RESET_STATE = "resetEmailState";
+export const EMAIL_EDIT = "editEmail";
+export const FETCH_EMAIL = "fetchEmail";
+export const FETCH_EMAILS = "fetchEmails";
+export const CHECK_AUTH = "checkAuth";
+export const LOGIN = "login";
+export const LOGOUT = "logout";
+export const REGISTER = "register";
+export const UPDATE_USER = "updateUser";

@@ -2,7 +2,7 @@
 
 > Vue.js codebase containing MiniSend REST APP (CRUD, advanced patterns, etc) that adheres to the [MiniSend](https://github.com/developer2700/minisend) spec and API.
 
-Project demo is available at https://minisend.mtcdevserver4.com/
+Project demo is available at http://minisend.mohammadghamari.mtcdevserver4.com/
 
 This codebase was created to demonstrate a fully fledged fullstack application built with **Vue.js** including CRUD operations, authentication, routing, pagination, and more.
 
